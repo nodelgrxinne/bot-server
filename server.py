@@ -19,7 +19,7 @@ ADMIN_KEY = os.getenv("ADMIN_KEY", "RINBELL_ADMIN_2026")
 DB_URL = os.getenv("DB_URL")
 
 # 🔥 URL ของตัวเอง (สำคัญมาก)
-SELF_URL = os.getenv("SELF_URL", "https://bot-server-7v1f.onrender.com")
+SELF_URL = os.getenv("SELF_URL", "https://bot-server-g0z1.onrender.com")
 
 ONLINE_WINDOW = 120  # วินาที
 
